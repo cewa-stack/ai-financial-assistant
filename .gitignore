@@ -1,0 +1,22 @@
+# Plik .gitignore dla AI Financial Assistant
+
+# Środowisko wirtualne
+venv/
+.venv/
+
+# Wrażliwe i wygenerowane pliki
+.env
+*.db
+financial_assistant.db 
+
+# Narzędzia ngrok
+ngrok.log
+*.log
+
+# Dane wejściowe/wyjściowe
+/data/
+/reports/
+
+# Cache i inne
+__pycache__/
+*.pyc
