@@ -1,14 +1,14 @@
 # 💰 AI Financial Assistant
 
-**[TYTUŁ PRODUKTU]**
+
 ## Intelligent Financial Assistant | FastAPI & Streamlit Application
 
-Krótki opis produktu
+
 Kompleksowa aplikacja finansowa wspomagana sztuczną inteligencją do analizy wydatków, generowania rekomendacji i śledzenia celów oszczędnościowych.
 
-❤️ **[Pierwsze zdanie - benefit]** Automatycznie kategoryzuje transakcje i zapewnia inteligentne rekomendacje oszczędnościowe, pomagając osiągnąć cele finansowe.
-⭐️ **[Drugie zdanie - cecha]** Zbudowany na solidnej architekturze **FastAPI** (API) i **Streamlit** (Dashboard) z wbudowanymi narzędziami analitycznymi (Pandas, Scikit-learn, Plotly).
-✨ **[Trzecie zdanie - zastosowanie]** Idealne rozwiązanie do osobistego zarządzania finansami, umożliwiające importowanie danych CSV, wizualizację kluczowych wskaźników KPI i testowanie nowych modeli ML.
+❤️ Automatycznie kategoryzuje transakcje i zapewnia inteligentne rekomendacje oszczędnościowe, pomagając osiągnąć cele finansowe.
+⭐️ Zbudowany na solidnej architekturze **FastAPI** (API) i **Streamlit** (Dashboard) z wbudowanymi narzędziami analitycznymi (Pandas, Scikit-learn, Plotly).
+✨ Idealne rozwiązanie do osobistego zarządzania finansami, umożliwiające importowanie danych CSV, wizualizację kluczowych wskaźników KPI i testowanie nowych modeli ML.
 
 ---
 
